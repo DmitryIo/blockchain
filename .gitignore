@@ -1,1 +1,8 @@
 venv
+.DS_Store
+build/
+.env
+.history
+.hypothesis/
+build/
+reports/
